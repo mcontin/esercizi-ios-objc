@@ -1,6 +1,6 @@
 //
 //  ViewController.h
-//  InputOutput
+//  EvenOdd
 //
 //  Created by Mattia Contin  on 23/01/2017.
 //  Copyright © 2017 Mattia Contin. All rights reserved.
@@ -10,9 +10,9 @@
 
 @interface ViewController : UIViewController
 
-@property (weak, nonatomic) IBOutlet UILabel *userNameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *resultLabel;
 
--(IBAction)textWasEdited:(id)sender;
+-(IBAction)resultWasRequested:(id)sender;
 
 @end
 
