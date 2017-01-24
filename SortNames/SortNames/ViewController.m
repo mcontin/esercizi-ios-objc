@@ -47,12 +47,12 @@
     [names addObject:@"Yvette Farmer"];
     [names addObject:@"Evan Hughes"];
     [names addObject:@"Shelley Lane"];
-    [names addObject:@"Gladys	Carroll"];
-    [names addObject:@"Stella	Thornton"];
+    [names addObject:@"Gladys Carroll"];
+    [names addObject:@"Stella Thornton"];
     [names addObject:@"Mindy Wilkerson"];
     [names addObject:@"Beth Diaz"];
     [names addObject:@"Everett Mckinney"];
-    [names addObject:@"Audrey	Cooper"];
+    [names addObject:@"Audrey Cooper"];
     [names addObject:@"Christie Sutton"];
     [names addObject:@"Timothy Walters"];
 }
